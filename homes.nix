@@ -6,8 +6,8 @@
     services = {
       gammastep = {
         enable = true;
-        longitude = -80;
-        latitude = 40;
+        longitude = -80.0;
+        latitude = 40.0;
       };
     };
     home = { packages = with pkgs;[ ]; stateVersion = "22.05"; };
