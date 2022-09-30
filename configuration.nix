@@ -46,6 +46,7 @@
     nixfmt
     rnix-lsp
     distrobox
+    pulseaudio
   ];
   programs.command-not-found.enable = true; # Handle commands that aren't found
   networking.firewall.enable = false;
