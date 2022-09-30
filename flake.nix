@@ -15,6 +15,7 @@
           ./homes.nix
           ./entertainment.nix
           ./dev.nix
+          ./amdgpu.nix
           ({ config, pkgs, ... }: { networking.hostName = "epb-desktop"; })
         ];
       };
