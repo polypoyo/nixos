@@ -11,6 +11,7 @@
         rofi
         light
         dmenu
+        vscodium
       ];
     };
   };
