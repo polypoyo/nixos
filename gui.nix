@@ -20,6 +20,7 @@
     mpv # media player
     solaar # logitech unifying
     blender # graphics suite, mostly 3D
+    smplayer # mpv frontend
   ];
   virtualisation = {
     waydroid = {
