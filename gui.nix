@@ -21,6 +21,7 @@
     solaar # logitech unifying
     blender # graphics suite, mostly 3D
     smplayer # mpv frontend
+    python310Packages.yt-dlp # downloads online videos
   ];
   virtualisation = {
     waydroid = {
